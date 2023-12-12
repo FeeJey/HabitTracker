@@ -11,7 +11,7 @@ import SwiftUI
 struct NC2_Habit_TrackerApp: App {
     var body: some Scene {
         WindowGroup {
-            HabitModelView()
+            MainView()
         }
     }
 }
